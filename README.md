@@ -2,9 +2,6 @@
 <h3 align="center">💻️A Frontend engineer 👨‍💻</h3>
 <h3 align="center">From Taiwan 🇹🇼✨</h3>
 <hr>
-<h5>Most of the code were written in JavaScript and I'm willing to learn other languages .</h5>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyLincode&layout=compact&theme=dark" alt="AndyLincode's Top languages" >
-
 <h5>Github stats card .</h5>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=AndyLincode&theme=dark" alt="AndyLincode's Github stats card" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyLincode&theme=tokyonight" alt="AndyLincode's Github stats card" /></p>
