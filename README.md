@@ -4,7 +4,6 @@
 <hr>
 <h5>Github stats card .</h5>
 <p><img align="center" src="https://streak-stats.demolab.com/?user=AndyLincode&theme=dark" alt="AndyLincode's Github stats card" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AndyLincode&theme=tokyonight" alt="AndyLincode's Github stats card" /></p>
 
 <h5>Languages</h5>
 <p>Front</p>
